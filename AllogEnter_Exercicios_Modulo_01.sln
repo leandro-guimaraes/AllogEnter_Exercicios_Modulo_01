@@ -3,31 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDolarReal", "AllogEnter_Exercicios_Modulo_01\ConversorDolarReal.csproj", "{046958B2-EECE-4845-B438-ECBA7D65C5E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversorDolarReal", "AllogEnter_Exercicios_Modulo_01\ConversorDolarReal.csproj", "{046958B2-EECE-4845-B438-ECBA7D65C5E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorTemperatura", "ConversorTemperatura\ConversorTemperatura.csproj", "{0BEEA23F-D7DB-4535-A6FA-3846EAF9EDFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversorTemperatura", "ConversorTemperatura\ConversorTemperatura.csproj", "{0BEEA23F-D7DB-4535-A6FA-3846EAF9EDFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoImc", "CalculoImc\CalculoImc.csproj", "{F087E9B3-F4AD-4F02-84B5-2C9C7A59FCA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoImc", "CalculoImc\CalculoImc.csproj", "{F087E9B3-F4AD-4F02-84B5-2C9C7A59FCA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraCombustivelViagem", "CalculadoraCombustivelViagem\CalculadoraCombustivelViagem.csproj", "{3FA2C67B-1E3E-4691-80D0-0837DA12B98B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraCombustivelViagem", "CalculadoraCombustivelViagem\CalculadoraCombustivelViagem.csproj", "{3FA2C67B-1E3E-4691-80D0-0837DA12B98B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversortemperatura02", "Conversortemperatura02\Conversortemperatura02.csproj", "{B1B16E9A-1108-4B89-95B5-A0C2723F9F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversortemperatura02", "Conversortemperatura02\Conversortemperatura02.csproj", "{B1B16E9A-1108-4B89-95B5-A0C2723F9F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstituindoLetras", "SubstituindoLetras\SubstituindoLetras.csproj", "{24868FAC-D475-4B73-AE55-869137C85C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstituindoLetras", "SubstituindoLetras\SubstituindoLetras.csproj", "{24868FAC-D475-4B73-AE55-869137C85C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaPessoa", "OlaPessoa\OlaPessoa.csproj", "{5C739E41-34A2-417E-A418-59DBDB718006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlaPessoa", "OlaPessoa\OlaPessoa.csproj", "{5C739E41-34A2-417E-A418-59DBDB718006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReajusteSalarial", "ReajusteSalarial\ReajusteSalarial.csproj", "{13FD2C5F-DFBB-4E2E-AD31-961F93BB87E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReajusteSalarial", "ReajusteSalarial\ReajusteSalarial.csproj", "{13FD2C5F-DFBB-4E2E-AD31-961F93BB87E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquivoUsuario", "ArquivoUsuario\ArquivoUsuario.csproj", "{34BD459C-8E12-4199-800D-2E5C6B6E6752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArquivoUsuario", "ArquivoUsuario\ArquivoUsuario.csproj", "{34BD459C-8E12-4199-800D-2E5C6B6E6752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoImcTexto", "CalculoImcTexto\CalculoImcTexto.csproj", "{025EB266-FF8E-478B-9C2B-7506797989A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoImcTexto", "CalculoImcTexto\CalculoImcTexto.csproj", "{025EB266-FF8E-478B-9C2B-7506797989A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaInversa", "ListaInversa\ListaInversa.csproj", "{27AB083F-0173-42F4-9B19-99B0C954DE20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaInversa", "ListaInversa\ListaInversa.csproj", "{27AB083F-0173-42F4-9B19-99B0C954DE20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corrida", "Corrida\Corrida.csproj", "{C0D58079-CCA0-4F52-A40D-A8C2656BB3BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Corrida", "Corrida\Corrida.csproj", "{C0D58079-CCA0-4F52-A40D-A8C2656BB3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoImcDadosCliente", "CalculoImcDadosCliente\CalculoImcDadosCliente.csproj", "{558700A9-832B-4C70-B6C2-998F23DF35C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoImcDadosCliente", "CalculoImcDadosCliente\CalculoImcDadosCliente.csproj", "{558700A9-832B-4C70-B6C2-998F23DF35C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaracteresA_Z", "CaracteresA_Z\CaracteresA_Z.csproj", "{611E7220-4A34-49B6-AE94-32C9F2487323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611E7220-4A34-49B6-AE94-32C9F2487323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611E7220-4A34-49B6-AE94-32C9F2487323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611E7220-4A34-49B6-AE94-32C9F2487323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611E7220-4A34-49B6-AE94-32C9F2487323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
