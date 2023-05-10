@@ -2,12 +2,15 @@
 
 class ArmazenaVetorCalculaMedia
 {
+
     /*
+     
     o executar o programa, será exibida a mensagem "Digite a quantidade de números a serem lidos: ".
     O usuário deverá digitar a quantidade de números que deseja ler (por exemplo, 5). 
     Em seguida, o programa solicita que o usuário digite cada um dos números um por um, armazenando-os em um vetor. 
     Durante a leitura, o programa verifica qual é o maior número digitado e calcula a soma de todos eles para,
     ao final, calcular a média. Por fim, o programa exibe a média e o maior número.
+
      */
 
     static void Main(string[] args)
