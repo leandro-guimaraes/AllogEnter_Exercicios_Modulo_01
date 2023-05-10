@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprimeVogais", "ImprimeVog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeterminaValoresIdenticosVetores", "DeterminaValoresIdenticosVetores\DeterminaValoresIdenticosVetores.csproj", "{1DF7FB37-3BC3-448E-A1A0-16C14B8D5008}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmazenaVetorCalculaMedia", "ArmazenaVetorCalculaMedia\ArmazenaVetorCalculaMedia.csproj", "{07F979D6-039F-425B-A19B-8B82D319662F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{1DF7FB37-3BC3-448E-A1A0-16C14B8D5008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DF7FB37-3BC3-448E-A1A0-16C14B8D5008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DF7FB37-3BC3-448E-A1A0-16C14B8D5008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F979D6-039F-425B-A19B-8B82D319662F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F979D6-039F-425B-A19B-8B82D319662F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F979D6-039F-425B-A19B-8B82D319662F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F979D6-039F-425B-A19B-8B82D319662F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
