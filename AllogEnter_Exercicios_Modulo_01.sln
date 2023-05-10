@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaInversa", "ListaInvers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corrida", "Corrida\Corrida.csproj", "{C0D58079-CCA0-4F52-A40D-A8C2656BB3BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoImcDadosCliente", "CalculoImcDadosCliente\CalculoImcDadosCliente.csproj", "{558700A9-832B-4C70-B6C2-998F23DF35C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C0D58079-CCA0-4F52-A40D-A8C2656BB3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0D58079-CCA0-4F52-A40D-A8C2656BB3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0D58079-CCA0-4F52-A40D-A8C2656BB3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558700A9-832B-4C70-B6C2-998F23DF35C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
