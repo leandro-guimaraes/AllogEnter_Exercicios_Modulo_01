@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 class Cliente
 {
     /*
-     Linhas 1 a 8: Inclui as bibliotecas necessárias e define a classe Cliente, que possui as propriedades ID, Nome, Endereco, Telefone e Email.
+     Linhas 1 a 16: Inclui as bibliotecas necessárias e define a classe Cliente, que possui as propriedades ID, Nome, Endereco, Telefone e Email.
      */
     public int ID { get; set; }
     public string Nome { get; set; }
@@ -17,6 +17,7 @@ class Cliente
 
 class CadastroCientes
 {
+    
     static void Main(string[] args)
     {
         string arquivo = "clientes.csv";
